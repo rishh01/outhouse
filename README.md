@@ -1,2 +1,2 @@
 # Outhouse Kalatop
-Website made for Homestays. Visit here: outhousekalatop.in
+Website made for a local Homestay. Visit here: https://www.outhousekalatop.in/
